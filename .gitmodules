@@ -1,0 +1,3 @@
+[submodule "couchdb/dump"]
+	path = couchdb/dump
+	url = git@github.com:danielebailo/couchdb-dump.git
