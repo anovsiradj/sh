@@ -1,2 +1,2 @@
 
-Collection of Bash scripts that Iam using on my Linuxes. 
+Collection of scripts that I use on my Linuxes (mostly debian).
